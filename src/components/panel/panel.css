@@ -1,0 +1,31 @@
+#main {
+  min-height: 100vh;
+  display: flex;
+  
+}
+#panel{
+  width: 100%;
+}
+
+#aside {
+  background-color: rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  height: 100vh;
+}
+#aside h2 {
+  text-align: center;
+}
+
+#aside ul {
+  list-style: none;
+}
+.aside-link {
+  display: block;
+  text-decoration: none;
+  color: black;
+  padding: 15px 50px;
+}
+.aside-link:hover {
+  background-color: rebeccapurple;
+  transition: 500ms;
+}

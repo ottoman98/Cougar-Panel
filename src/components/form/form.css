@@ -1,0 +1,26 @@
+#main-form {
+  width: 100%;
+}
+
+#form-product {
+  margin: 0 auto;
+  width: 20rem;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.input-container input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.input-color {
+  display: flex;
+  gap: 10px;
+}
+
+.input-container textarea {
+  resize: none;
+  min-height: 15rem;
+}
