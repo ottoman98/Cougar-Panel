@@ -1,5 +1,5 @@
 
-# Cougar BackEnd
+# Cougar Panel
 
 Panel de Administracion 
 
